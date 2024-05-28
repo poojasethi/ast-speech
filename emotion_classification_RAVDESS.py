@@ -1,5 +1,11 @@
 # This is the code to fine-tune the AST model on emotion classification using the RAVDESS dataset
 
+pip install transformers datasets torchaudio scikit-learn
+pip install accelerate -U
+pip install transformers[torch]
+pip show transformers
+pip show accelerate
+
 from transformers import AutoFeatureExtractor, ASTForAudioClassification, TrainingArguments, Trainer, get_scheduler, EarlyStoppingCallback
 from datasets import load_dataset, DatasetDict, Dataset
 import torch
