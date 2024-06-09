@@ -1,6 +1,8 @@
 # Audio Spectrogram Transformer (AST) for speech
 Adapting the Audio Spectrogram Transformer (AST) for human language classification.
-This is a class project for Stanford CS 224S (Spoken Language Processing), spring 2024.
+![image](.png)
+
+Class project for Stanford CS 224S (Spoken Language Processing), spring 2024.
 
 # Notebook Pointers
 ## AST for ASR
