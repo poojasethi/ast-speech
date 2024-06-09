@@ -17,5 +17,5 @@ Please refer to the below links to see how AST was finetuned and evaluated for v
 * [Music Genre Classification](https://github.com/poojasethi/ast-speech/blob/main/music_genre_classification_GTZAN.py)
 
 ## Spectrogram and Attention Map Visualization
-* [Attention Map Visualizations]https://github.com/poojasethi/ast-speech/blob/main/visualizations.ipynb
+* [Attention Map Visualizations](https://github.com/poojasethi/ast-speech/blob/main/visualizations.ipynb)
 
