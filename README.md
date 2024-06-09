@@ -1,8 +1,16 @@
 # Audio Spectrogram Transformer (AST) for speech
-Adapting the Audio Spectrogram Transformer (AST) for human language classification. Class project for Stanford CS 224S (Spoken Language Processing).
+Adapting the Audio Spectrogram Transformer (AST) for human language classification.
+This is a class project for Stanford CS 224S (Spoken Language Processing), spring 2024.
 
-## Environment Setup
-```
-conda env create -n ast-speech -f environment.yml
-conda activate ast-speech
-```
+# Notebook Pointers
+## AST for ASR
+* Google FLEURS (`en_us`):
+* Librispeech
+
+## AST for Classification
+* Emotion Detection
+* Music Genre Classification
+
+## Spectrogram and Attention Map Visualization
+
+
